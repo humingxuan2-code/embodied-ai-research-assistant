@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyc
+.pytest_cache/
+.streamlit/
+.DS_Store
+Thumbs.db
+screenshots/
